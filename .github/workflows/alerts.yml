@@ -1,13 +1,15 @@
 name: Kite Alert Bot
 
 on:
+  workflow_dispatch:   # lets you run manually from GitHub
   schedule:
-    - cron: "0 6,18 * * *"   # Runs automatically at 06:00 & 18:00 UTC
-  workflow_dispatch:          # Lets you run manually from GitHub UI
+    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 UK (BST summer)
+    - cron: "0 18 * * *"  # 18:00 UTC = 19:00 UK (BST summer)
 
 jobs:
   run-bot:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -15,14 +17,15 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: "3.x"
 
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Run bot
-        run: python kite_alert_bot.py
+      - name: Run kite alert bot
         env:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           CHAT_ID: ${{ secrets.CHAT_ID }}
           OWM_API_KEY: ${{ secrets.OWM_API_KEY }}
+        run: python kite_alert_bot.py
+
