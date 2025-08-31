@@ -1,0 +1,68 @@
+name,latitude,longitude,region,min_knots,max_knots,best_directions,tide_notes
+Hayling Island,50.785,-0.965,Hampshire,12,40,S;SE;E,Best mid–high tide; lagoons form over bars; avoid dead high shorebreak
+West Wittering (East Head),50.781,-0.906,West Sussex,12,40,S;SW;W;NW,Low–mid tide ‘trench’/lagoons; waves at higher tide
+Bracklesham Bay,50.767,-0.784,West Sussex,14,40,S;SW;W,Works most tides; shore dump near high
+Selsey (East Beach),50.732,-0.783,West Sussex,14,40,S;SE;E,Works mid–high; tidal streams on headland
+Hill Head / Lee-on-the-Solent,50.811,-1.237,Hampshire,12,40,SW;W;NW,Best low–mid; shallow/flat sections; check tides for depth
+Calshot Spit (Solent side),50.81,-1.305,Hampshire,12,40,SW;W;NW,Best around high for lagoon depth; avoid full low (mud)
+Calshot ‘Pond’ (winter access),50.813,-1.32,Hampshire,12,40,SW;W;NW,High tide only (winter access window)
+Stokes Bay / Gosport,50.781,-1.159,Hampshire,14,40,SW;W,Works most tides; chop increases wind-against-tide
+Poole Harbour (Whitley Lake),50.705,-1.923,Dorset,10,35,NW;W;SW;S,Rideable all tides; very shallow at low; restricted zones
+Sandbanks (sea side),50.69,-1.928,Dorset,14,40,E;SE;S;SW,Works most tides; shorebreak near high
+Studland Bay (Knoll Beach),50.657,-1.951,Dorset,14,40,E;SE;S,Best mid–high; check National Trust guidance
+Bournemouth / Branksome,50.719,-1.889,Dorset,16,40,E;SE;S,Works mid tide; shore dump at high
+Weymouth (Overcombe),50.631,-2.429,Dorset,14,40,SW;W,Works most tides; shorebreak near high
+Portland Harbour (Ferrybridge area),50.593,-2.459,Dorset,12,40,All,All tides; watch currents near Ferrybridge on ebb
+Exmouth (Duck Pond),50.617,-3.423,South Devon,12,40,W;NW;N,Best ±2h high (larger pond); mid–low possible with walk
+Exmouth (Seafront),50.607,-3.406,South Devon,14,40,SW;W;NW,Works most tides; chop with wind-against-tide
+Teignmouth / Holcombe,50.546,-3.492,South Devon,16,40,SW;W,Mid tide best; shore break near high
+Bantham,50.286,-3.89,South Devon,15,40,W;SW,Low→mid best; avoid ±2h high (beach small/none)
+Bigbury-on-Sea / Burgh Island,50.281,-3.892,South Devon,15,40,W;SW,Low→mid best; avoid ±2h high
+Challaborough,50.289,-3.889,South Devon,16,40,W;SW,Mid tide best; shorebreak near high
+South Milton Sands / Thurlestone,50.244,-3.873,South Devon,15,40,W;SW,Mid tide best
+Hope Cove,50.235,-3.87,South Devon,16,40,W;SW,Mid tide window; small beach at high
+Mothecombe,50.315,-3.962,South Devon,15,40,W;SW,Mid tide best; rips near river
+Wembury,50.336,-4.08,South Devon,16,40,S;SW,Mid tide best; reefs at low/high
+Whitsand Bay (Tregonhawke),50.338,-4.266,Cornwall (South),16,40,S;SW;W,Mid tide best; heavy shorebreak near high
+Seaton (Cornwall),50.357,-4.368,Cornwall (South),14,40,S;SW;W,Works most tides; rips on big swells
+Par / St Austell Bay,50.351,-4.693,Cornwall (South),14,40,S;SE;E,Mid–high best; sheltered bay
+Falmouth (Gylly/Fox),50.144,-5.07,Cornwall (South),14,40,S;SE;E,Mid tide best; avoid peak high shore dump
+Maenporth,50.129,-5.089,Cornwall (South),14,40,S;SE;E,Mid–high best
+Praa Sands,50.1,-5.379,Cornwall (South),16,40,S;SW;W,Mid tide best; strong shorebreak at high
+Marazion / Long Rock,50.125,-5.475,Cornwall (South),12,40,SW;W,Mid–incoming best; reefs covered at high create shorebreak
+Perranuthnoe,50.109,-5.439,Cornwall (South),16,40,S;SW;W,Mid tide window; rocky at low/high
+Gwithian / Godrevy,50.23,-5.397,Cornwall (North),15,40,NW;W;SW,Mid tide best; high tide tight to cliffs
+Hayle (Sandy Acres/Towans),50.229,-5.377,Cornwall (North),14,40,NW;W;SW,Mid tide best; strong currents near Hayle estuary
+Porthtowan,50.263,-5.246,Cornwall (North),16,40,NW;W;SW,Mid tide window; heavy shorebreak at high
+Perranporth,50.345,-5.158,Cornwall (North),15,40,NW;W;SW,Mid tide best; long beach
+Watergate Bay,50.442,-5.055,Cornwall (North),15,40,NW;W;SW,Mid tide best; shorebreak near high
+Mawgan Porth,50.467,-5.03,Cornwall (North),16,40,NW;W;SW,Mid tide window; rips on big swell
+Harlyn Bay,50.542,-4.99,Cornwall (North),14,40,N;NE;E,Mid–high best; sheltered from SW
+Polzeath,50.574,-4.915,Cornwall (North),14,40,NW;N;NE,Mid tide best; busy in summer
+Bude (Crooklets/Summerleaze),50.83,-4.55,Cornwall (North),15,40,NW;W;SW,Mid tide best; river rip at Summerleaze
+Minehead,51.21,-3.48,Bristol Channel (Somerset),15,40,W;SW,Incoming tide only; vast mud/sand at low
+Blue Anchor,51.181,-3.384,Bristol Channel (Somerset),15,40,W;SW,Incoming tide recommended; mud flats
+Watchet,51.18,-3.325,Bristol Channel (Somerset),15,40,W;SW,Incoming tide only; harbour walls
+Burnham-on-Sea,51.238,-2.997,Bristol Channel (Somerset),15,40,W;SW;S,Incoming tide only; mud/silt hazards
+Berrow,51.269,-3.013,Bristol Channel (Somerset),15,40,W;SW;S,Incoming tide only; long walk at low
+Brean,51.283,-3.004,Bristol Channel (Somerset),15,40,W;SW;S,Incoming tide only; soft mud at very low
+Uphill / Weston Bay (South end),51.323,-2.987,Bristol Channel (Somerset),15,40,W;SW,Incoming tide only; strong tidal streams
+Weston-super-Mare (Main),51.344,-2.976,Bristol Channel (Somerset),15,40,W;SW,Incoming tide only; extreme tidal range
+Porthcawl – Rest Bay,51.494,-3.736,South Wales (Glamorgan),15,40,W;SW,Mid tide best; shorebreak at high; reefs at low
+Porthcawl – Newton Beach,51.484,-3.691,South Wales (Glamorgan),12,40,S;SW;W,Works all tides; flatter water inside bay
+Ogmore-by-Sea / Southerndown,51.447,-3.625,South Wales (Glamorgan),16,40,W;SW,Mid tide window; strong currents
+Swansea Bay,51.612,-3.929,South Wales (Glamorgan),12,40,S;SW;W,Works most tides; choppy
+Aberavon,51.596,-3.82,South Wales (Glamorgan),14,40,S;SW;W,Works all tides; best mid
+Llangennith / Rhossili Bay,51.591,-4.302,South Wales (Gower),15,40,W;SW,Mid tide best; long walk at low; shorebreak at high
+Broughton Bay / Whitford,51.64,-4.277,South Wales (Gower),14,40,W;SW;NW,Mid tide best; currents near Whitford Point
+Oxwich Bay,51.557,-4.146,South Wales (Gower),14,40,S;SW;W,Works most tides; cleaner at mid
+Horton / Port Eynon,51.546,-4.2,South Wales (Gower),14,40,S;SW;W,Mid tide best; reefs at extremes
+Three Cliffs Bay,51.564,-4.09,South Wales (Gower),16,40,S;SW,"Tide sensitive; strong currents, advanced only"
+Caswell Bay,51.569,-4.009,South Wales (Gower),16,40,S;SW,Mid tide window; busy beach
+Cefn Sidan / Pembrey Sands,51.678,-4.401,Carmarthenshire,12,40,S;SW;W,Works most tides; very long beach
+Pendine Sands,51.744,-4.555,Carmarthenshire,12,40,S;SW;W,Works most tides; MOD closures possible
+Tenby South Beach,51.66,-4.705,Pembrokeshire,14,40,S;SW;W,Mid tide best; shorebreak at high
+Freshwater West,51.654,-5.111,Pembrokeshire,16,40,SW;W;NW,Mid tide best; heavy surf on big swells
+Broad Haven (St Brides Bay),51.803,-5.107,Pembrokeshire,14,40,SW;W;NW,Mid tide best
+Newgale,51.847,-5.111,Pembrokeshire,15,40,SW;W;NW,Mid tide best; shorebreak at high
+Whitesands (St Davids),51.9,-5.3,Pembrokeshire,16,40,NW;N;NE,Mid tide best; exposed headland
