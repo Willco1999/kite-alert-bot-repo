@@ -3,7 +3,7 @@ name: Kite Alert Bot
 on:
   workflow_dispatch:   # lets you run manually from GitHub
   schedule:
-    - cron: "0 6 * * *"   # 06:00 UTC = 07:00 UK (BST summer)
+    - cron: "0 5 * * *"   # 06:00 UTC = 06:00 UK (BST summer)
     - cron: "0 18 * * *"  # 18:00 UTC = 19:00 UK (BST summer)
 
 jobs:
