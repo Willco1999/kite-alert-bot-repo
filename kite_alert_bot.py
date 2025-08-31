@@ -105,6 +105,12 @@ def send_message(text):
     requests.post(url, data={"chat_id": CHAT_ID, "text": text})
 
 if __name__ == "__main__":
-    spots = load_spots()
-    message = build_report(spots)
-    send_message(message)
+    # Always send test message first
+    send_message("✅ Kite Alert Bot started — test OK")
+
+    try:
+        spots = load_spots()
+        message = build_report(spots)
+        send_message(message)
+    except Exception as e:
+        send_message(f"⚠️ Error in bot: {e}")
