@@ -170,5 +170,6 @@ if __name__ == "__main__":
         outlook = build_5day_outlook(spots)
         message = f"{label}\n\n🌬 Detailed Kite Forecast for Tomorrow\n{detailed}\n{outlook}"
 
-    send_message(message)
+    # --- DEBUG TEST MESSAGE ---
+send_message("✅ Test: Kite Alert Bot is alive and can send messages!")
 
